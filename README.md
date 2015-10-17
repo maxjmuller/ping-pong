@@ -1,24 +1,25 @@
 # _Ping Pong Test_
 
-<!-- ##### _A simple web page that displays a person's favorite things, October 11, 2015_
+##### _A quick demonstration of javascript looping, branching, and variables, October 16, 2015_
 
-#### By **_Max Muller_**
+##### By **_Max Muller_**
 
 ## Description
 
-I created this brief website for the third code review of my Intro to Programming Class at Epicodus. It is a form, implemented in JavaScript and JQuery, that displays a person's favorite things.
+I created this brief website for the fourth code review of my Intro to Programming Class at Epicodus. On clicking the button, you may enter a number. The page will return each number up to that number, except it will replace:
+* Any number divisible by 3 with "ping",
+* Any number divisble by 5 with "pong",
+* And any number divisible by both 3 and 5 with "ping-pong".
 
 ## Setup
 
-* Visit [http://maxjmuller.github.io/favorite-things](http://maxjmuller.github.io/favorite-things) and follow the instructions on the page.
+* Visit [http://maxjmuller.github.io/ping-pong](http://maxjmuller.github.io/ping-pong) and follow the instructions on the page.
 
 ## Technologies Used
 
 * HTML
 * CSS & Bootstrap
 * JavaScript & JQuery
-* I used the HTML "input" element's "placeholder" attribute to provide example favorites in the blank form.
-* I used Bootstrap's "list-group" class to format the favorites list nicely.
 
 ### Legal
 
@@ -42,4 +43,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE. -->
+THE SOFTWARE.
