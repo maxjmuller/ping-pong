@@ -1,8 +1,8 @@
 $(document).ready(function(){
   $("button").click(function() {
-    var number = prompt("Enter any number");
     $("p#output").remove();
     $("#redo").remove();
+    var number = prompt("Enter any number");
     $("button").after("<span id='redo'> (Click here to redo.)</spam>");
     $("p#button").after("<p id='output'></p>");
     for (index = 1; index <= number; index +=1) {
