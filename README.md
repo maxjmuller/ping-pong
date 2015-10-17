@@ -1,4 +1,4 @@
-# _Pint Pong Test_
+# _Ping Pong Test_
 
 <!-- ##### _A simple web page that displays a person's favorite things, October 11, 2015_
 
